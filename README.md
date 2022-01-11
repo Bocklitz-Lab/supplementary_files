@@ -1,4 +1,4 @@
-# Supplementary files for the paper "RAMANMATERIX: a delightful way to analyze Raman spectra"
+# Supplementary files for the paper "**RAMAN**METRIX: a delightful way to analyze Raman spectra"
 
 To demonstrate the capabilities of the Ramanmetrix software a dataset from
 
