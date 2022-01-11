@@ -1,0 +1,80 @@
+file,standard,date,batch,genus,species,strain,type
+Bacteria_Spectra_SSP/1_Batch/4-Acetamidophenol_170301,TRUE,2017-03-01,1_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/1_Batch/4-Acetamidophenol_170302,TRUE,2017-03-02,1_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/1_Batch/4-Acetamidophenol_170303,TRUE,2017-03-03,1_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/1_Batch/E-coli-DSM423_170301,FALSE,2017-03-01,1_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/1_Batch/L-innocua-DSM20649_170302,FALSE,2017-03-02,1_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/1_Batch/P-stutzeri-DSM5190_170301,FALSE,2017-03-01,1_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/1_Batch/R-terrigena-DSM2687_170303,FALSE,2017-03-03,1_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/1_Batch/S-cohnii-DSM20261_170301,FALSE,2017-03-01,1_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/1_Batch/S-warneri-DSM20316_170301,FALSE,2017-03-01,1_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
+Bacteria_Spectra_SSP/2_Batch/4-Acetamidophenol_170302,TRUE,2017-03-02,2_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/2_Batch/4-Acetamidophenol_170303,TRUE,2017-03-03,2_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/2_Batch/4-Acetamidophenol_170307,TRUE,2017-03-07,2_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/2_Batch/E-coli-DSM423_170302,FALSE,2017-03-02,2_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/2_Batch/L-innocua-DSM20649_170303,FALSE,2017-03-03,2_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/2_Batch/P-stutzeri-DSM5190_170307,FALSE,2017-03-07,2_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/2_Batch/R-terrigena-DSM2687_170307,FALSE,2017-03-07,2_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/2_Batch/S-cohnii-DSM20261_170307,FALSE,2017-03-07,2_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/2_Batch/S-warneri-DSM20316_170303,FALSE,2017-03-03,2_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
+Bacteria_Spectra_SSP/3_Batch/4-Acetamidophenol_170307,TRUE,2017-03-07,3_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/3_Batch/4-Acetamidophenol_170308,TRUE,2017-03-08,3_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/3_Batch/4-Acetamidophenol_170309,TRUE,2017-03-09,3_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/3_Batch/E-coli-DSM423_170308,FALSE,2017-03-08,3_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/3_Batch/L-innocua-DSM20649_170308,FALSE,2017-03-08,3_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/3_Batch/P-stutzeri-DSM5190_170309,FALSE,2017-03-09,3_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/3_Batch/R-terrigena-DSM2687_170308,FALSE,2017-03-08,3_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/3_Batch/S-cohnii-DSM20261_170309,FALSE,2017-03-09,3_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/3_Batch/S-warneri-DSM20316_170307,FALSE,2017-03-07,3_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
+Bacteria_Spectra_SSP/4_Batch/4-Acetamidophenol_170308,TRUE,2017-03-08,4_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/4_Batch/4-Acetamidophenol_170309,TRUE,2017-03-09,4_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/4_Batch/4-Acetamidophenol_170310,TRUE,2017-03-10,4_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/4_Batch/E-coli-DSM423_170310,FALSE,2017-03-10,4_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/4_Batch/L-innocua-DSM20649_170309,FALSE,2017-03-09,4_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/4_Batch/P-stutzeri-DSM5190_170310,FALSE,2017-03-10,4_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/4_Batch/R-terrigena-DSM2687_170309,FALSE,2017-03-09,4_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/4_Batch/S-cohnii-DSM20261_170310,FALSE,2017-03-10,4_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/4_Batch/S-warneri-DSM20316_170308,FALSE,2017-03-08,4_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
+Bacteria_Spectra_SSP/5_Batch/4-Acetamidophenol_170404,TRUE,2017-04-04,5_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/5_Batch/4-Acetamidophenol_170411,TRUE,2017-04-11,5_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/5_Batch/E-coli-DSM423_170404,FALSE,2017-04-04,5_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/5_Batch/L-innocua-DSM20649_170411,FALSE,2017-04-11,5_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/5_Batch/P-stutzeri-DSM5190_170404,FALSE,2017-04-04,5_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/5_Batch/R-terrigena-DSM2687_170404,FALSE,2017-04-04,5_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/5_Batch/S-cohnii-DSM20261_170411,FALSE,2017-04-11,5_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/5_Batch/S-warneri-DSM20316_170404,FALSE,2017-04-04,5_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
+Bacteria_Spectra_SSP/6_Batch/4-Acetamidophenol_170411,TRUE,2017-04-11,6_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/6_Batch/4-Acetamidophenol_170412,TRUE,2017-04-12,6_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/6_Batch/E-coli-DSM423_170411,FALSE,2017-04-11,6_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/6_Batch/L-innocua-DSM20649_170412,FALSE,2017-04-12,6_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/6_Batch/P-stutzeri-DSM5190_170412,FALSE,2017-04-12,6_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/6_Batch/R-terrigena-DSM2687_170411,FALSE,2017-04-11,6_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/6_Batch/S-cohnii-DSM20261_170412,FALSE,2017-04-12,6_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/6_Batch/S-warneri-DSM20316_170412,FALSE,2017-04-12,6_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
+Bacteria_Spectra_SSP/7_Batch/4-Acetamidophenol_170413,TRUE,2017-04-13,7_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/7_Batch/4-Acetamidophenol_170509,TRUE,2017-05-09,7_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/7_Batch/4-Acetamidophenol_170510,TRUE,2017-05-10,7_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/7_Batch/E-coli-DSM423_170509,FALSE,2017-05-09,7_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/7_Batch/L-innocua-DSM20649_170413,FALSE,2017-04-13,7_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/7_Batch/P-stutzeri-DSM5190_170413,FALSE,2017-04-13,7_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/7_Batch/R-terrigena-DSM2687_170510,FALSE,2017-05-10,7_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/7_Batch/S-cohnii-DSM20261_170413,FALSE,2017-04-13,7_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/7_Batch/S-warneri-DSM20316_170413,FALSE,2017-04-13,7_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
+Bacteria_Spectra_SSP/8_Batch/4-Acetamidophenol_170509,TRUE,2017-05-09,8_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/8_Batch/4-Acetamidophenol_170510,TRUE,2017-05-10,8_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/8_Batch/4-Acetamidophenol_170511,TRUE,2017-05-11,8_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/8_Batch/E.coli DSM 423,FALSE,2017-05-10,8_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/8_Batch/L. innocua DSM 20649,FALSE,2017-05-09,8_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/8_Batch/P. stutzeri DSM 5190,FALSE,2017-05-09,8_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/8_Batch/R. terrigena DSM 2687,FALSE,2017-05-11,8_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/8_Batch/S. cohnii DSM 20261,FALSE,2017-05-09,8_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/8_Batch/S. warneri DSM 20316,FALSE,2017-05-09,8_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
+Bacteria_Spectra_SSP/9_Batch/4-Acetamidophenol_170510,TRUE,2017-05-10,9_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/9_Batch/4-Acetamidophenol_170511,TRUE,2017-05-11,9_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/9_Batch/4-Acetamidophenol_170512,TRUE,2017-05-12,9_Batch,NA,NA,NA,NA
+Bacteria_Spectra_SSP/9_Batch/E-coli-DSM423_170511,FALSE,2017-05-11,9_Batch,Escherichia,E. coli,E. coli DSM 423,E. coli DSM 423
+Bacteria_Spectra_SSP/9_Batch/L-innocua-DSM20649_170510,FALSE,2017-05-10,9_Batch,Listeria,L. innocua,L. innocua DSM 20649,L. innocua DSM 20649
+Bacteria_Spectra_SSP/9_Batch/P-stutzeri-DSM5190_170511,FALSE,2017-05-11,9_Batch,Pseudomonas,P. stutzeri,P. stutzeri DSM 5190,P. stutzeri DSM 5190
+Bacteria_Spectra_SSP/9_Batch/R-terrigena-DSM2687_170512,FALSE,2017-05-12,9_Batch,Raoultella,R. terrigena,R. terrigena DSM 2687,R. terrigena DSM 2687
+Bacteria_Spectra_SSP/9_Batch/S-cohnii-DSM20261_170510,FALSE,2017-05-10,9_Batch,Staphylococcus,S. cohnii,S. cohnii DSM 20261,S. cohnii DSM 20261
+Bacteria_Spectra_SSP/9_Batch/S-warneri-DSM20316_170510,FALSE,2017-05-10,9_Batch,Staphylococcus,S. warneri,S. warneri DSM 20316,S. warneri DSM 20316
